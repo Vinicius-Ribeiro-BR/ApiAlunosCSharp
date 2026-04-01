@@ -1,0 +1,6 @@
+@apiAlunes_HostAddress = http://localhost:5032
+
+GET {{apiAlunes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
